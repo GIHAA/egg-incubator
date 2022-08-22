@@ -1,3 +1,7 @@
+#include <Servo.h>
+#include <DHT.h>
+#include <CavyIoTdevelopmentBoard.h>
+
 #define SERVO 9
 Servo myservo;
 
