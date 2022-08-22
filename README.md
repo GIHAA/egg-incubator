@@ -1,4 +1,4 @@
-# egg-incubator 🥚 -> 🐣
+# egg-incubator 🥚🐣🐤🐥
 Automatic egg incubator using NodeMCU
 
 
